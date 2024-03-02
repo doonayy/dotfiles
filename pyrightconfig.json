@@ -1,0 +1,9 @@
+{
+  "include": [
+    "qtile"
+  ],
+  "exclude": [
+    "**/__pycache__"
+  ],
+  "ignore": [],
+}

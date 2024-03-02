@@ -1,0 +1,11 @@
+betterlockscreen
+catppuccin-gtk-theme-mocha
+escrotum-git
+linux65
+moc
+nwg-look-bin
+pfetch
+phoneinfoga
+qtile-extras
+tela-icon-theme
+trizen
